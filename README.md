@@ -24,7 +24,7 @@ so that I have quick access to emails and GitHub profiles
 
 * All tests must pass.
 
-![image](\assets\templateengine.png)
+![image](assets\templateengine.png)
 
 ### Classes
 The project must have the these classes: `Employee`, `Manager`, `Engineer`,
